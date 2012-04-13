@@ -12,4 +12,5 @@ Run pre-Cordova/PhoneGap 1.5 iPhone plugins on Cordova 1.5+
 ## Status
 
  - First checkin: tested and working well for [phonegap-plugins / iPhone / Prompt](https://github.com/phonegap/phonegap-plugins/tree/master/iPhone/Prompt)
+ - Test with [phonegap-plugins / iPhone / BundleFileReader](https://github.com/phonegap/phonegap-plugins/tree/master/iPhone/BundleFileReader) is now tested and working (typedef and 2 enums added to PGPlugin.h)
 
